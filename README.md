@@ -5,8 +5,8 @@ Projekt programowanie obiektowe
 - Dla gracza (użytkownika):
 Rozpoczęcie gry: podanie nazwy użytkownika przed startem.
 Wybór parametrów gry:
-    • Wybór kategorii pytań.
-    • Wybór poziomu trudności (łatwy, średni i trudny).
+ Wybór kategorii pytań.
+ Wybór poziomu trudności (łatwy, średni i trudny).
 Rozgrywka:
     • Pytanie z 4 wariantami odpowiedzi, gdzie jedna z nich jest poprawna.
     • Ograniczenie czasowe na odpowiedź.
