@@ -8,7 +8,7 @@ Prosta i grywalna aplikacja typu Quiz stworzona w języku Java. Projekt pozwala 
 * Baza pytań:** Wachlarz pytań z różnych dziedzin
 * Poziomy trudności:** Wybór poziomu (Easy,Medium,Hard), który wpływa na rodzaj pytań
 * System punktacji:** Punkty przyznawane na podstawie poprawności odpowiedzi
-* Ranking graczy:** Tabela wyników (Leaderboard) przechowująca najlepsze rezultaty.
+* Ranking graczy:** Tabela wyników (Leaderboard) przechowująca najlepsze rezultaty.  
 ##Wymagania projektowe
 * Java Development Kit (JDK) w wersji 17 lub nowszej
 * Środowisko IDE 
