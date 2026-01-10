@@ -16,6 +16,5 @@ Prosta i grywalna aplikacja typu Quiz stworzona w języku Java. Projekt pozwala 
 ## Dokumentacja
 Szegółowy opis projektu znajduje się w folderze  
 [Docs](./Docs)  
-![Diagram Klas UML](Docs/Programowanie_obiektowe.docx)  
-![Diagram Klas UML](Docs/IML.jpg)
+![Diagram Klas UML](Docs/UML.jpg)
 
