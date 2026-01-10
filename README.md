@@ -1,5 +1,5 @@
 # Projekt_PO
 
-Projekt programowanie obiektowe 
-Quiz Wiedzy
+Projekt programowanie obiektowe.
+#Quiz Wiedzy
 
