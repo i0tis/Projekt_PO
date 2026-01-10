@@ -13,3 +13,5 @@ Prosta i grywalna aplikacja typu Quiz stworzona w języku Java. Projekt pozwala 
 ## Wymagania projektowe
 * Java Development Kit (JDK) w wersji 17 lub nowszej
 * Środowisko IDE 
+
+![Diagram Klas UML] (Docs/IML.jpg)
