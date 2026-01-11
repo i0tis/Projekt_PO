@@ -25,6 +25,10 @@ Aplikacja typu Quiz stworzona w języku Java, pozwalająca użytkownikom na spra
 | **3. Kompilacja** | IDE zrobi to automatycznie po otwarciu. | `javac -d out src/*.java` |
 | **4. Uruchomienie** | Kliknij Prawym Przyciskiem na `Main.java` -> **Run**. | `java -cp out Main` |
 
+Szegółowy opis projektu znajduje się w folderze  
+[Docs](./Docs)  
+[DIAGRAM UML](./Docs/UML.jpg)
+
 ---
 
 ## 📋 Przykład działania programu
