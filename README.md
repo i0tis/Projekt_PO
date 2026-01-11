@@ -1,20 +1,38 @@
-# Projekt_PO Quiz wiedzy  
+# 🧠 Quiz Wiedzy - Projekt Java
 
-Projekt programowanie obiektowe  
-Quiz Wiedzy (Java Application)  
-Prosta i grywalna aplikacja typu Quiz stworzona w języku Java. Projekt pozwala użytkownikom sprawdzać swoją wiedzę na różnych poziomach trudności i rywalizować o miejsce w rankingu.
+Aplikacja typu Quiz stworzona w języku Java, pozwalająca użytkownikom na sprawdzenie swojej wiedzy w interaktywny sposób. Projekt obejmuje zarządzanie pytaniami, wybór poziomów trudności oraz system rywalizacji poprzez ranking graczy.
 
-## Główne funkcje  
-* Baza pytań:Wachlarz pytań z różnych dziedzin
-* Poziomy trudności:Wybór poziomu (Easy,Medium,Hard), który wpływa na rodzaj pytań
-* System punktacji:Punkty przyznawane na podstawie poprawności odpowiedzi
-* Ranking graczy:Tabela wyników (Leaderboard) przechowująca najlepsze rezultaty.
-    
-## Wymagania projektowe
-* Java Development Kit (JDK) w wersji 17 lub nowszej
-* Środowisko IDE  
-## Dokumentacja
-Szegółowy opis projektu znajduje się w folderze  
-[Docs](./Docs)  
-[DIAGRAM UML](./Docs/UML.jpg)
+## ✨ Funkcje aplikacji
 
+| Funkcja | Opis |
+| :--- | :--- |
+| **Baza pytań** | Obsługa zestawów pytań z różnych kategorii. |
+| **Poziomy trudności** | Wybór między Easy, Medium i Hard (wpływa na punkty). |
+| **Ranking** | System zapisu wyników i wyświetlanie tabeli liderów. |
+| **Interfejs** | Czytelne menu obsługiwane z poziomu konsoli. |
+
+## 🛠️ Technologie
+* **Język:** Java 17+
+* **Struktury danych:** Listy i Mapy (Collections Framework)
+* **Zapis danych:** Obsługa plików tekstowych (Ranking)
+
+## 🚀 Instrukcja uruchomienia (Tutorial)
+
+| Krok | Działanie w IDE (IntelliJ / Eclipse) | Działanie w Terminalu |
+| :--- | :--- | :--- |
+| **1. Pobranie** | Sklonuj repozytorium lub pobierz ZIP. | `git clone https://github.com/TwojUser/quiz-java.git` |
+| **2. Otwarcie** | Wybierz **File > Open** i wskaż folder projektu. | `cd quiz-java` |
+| **3. Kompilacja** | IDE zrobi to automatycznie po otwarciu. | `javac -d out src/*.java` |
+| **4. Uruchomienie** | Kliknij Prawym Przyciskiem na `Main.java` -> **Run**. | `java -cp out Main` |
+
+---
+
+## 📋 Przykład działania programu
+```text
+Pytanie: Który pierwiastek ma symbol 'H'?
+A) Hel
+B) Wodór
+C) Tlen
+
+Twoja odpowiedź: B
+Wynik: Poprawna odpowiedź! Zdobywasz punkty.
