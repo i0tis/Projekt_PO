@@ -1,0 +1,3 @@
+Słaby,5
+Mistrz,100
+Średni,50
