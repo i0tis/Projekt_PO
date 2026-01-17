@@ -1,42 +1,29 @@
-# 🧠 Quiz Wiedzy - Projekt Java
+# 🧠 Quiz Wiedzy - Projekt Java (GUI)
 
-Aplikacja typu Quiz stworzona w języku Java, pozwalająca użytkownikom na sprawdzenie swojej wiedzy w interaktywny sposób. Projekt obejmuje zarządzanie pytaniami, wybór poziomów trudności oraz system rywalizacji poprzez ranking graczy.
+Aplikacja typu Quiz z interfejsem graficznym (GUI) stworzona w języku Java. Pozwala użytkownikom na sprawdzenie swojej wiedzy w interaktywny sposób. Projekt obejmuje dynamiczne ładowanie pytań z pliku, wybór poziomów trudności oraz system rywalizacji poprzez ranking graczy.
 
 ## ✨ Funkcje aplikacji
 
 | Funkcja | Opis |
 | :--- | :--- |
-| **Baza pytań** | Obsługa zestawów pytań z różnych kategorii. |
-| **Poziomy trudności** | Wybór między Easy, Medium i Hard (wpływa na punkty). |
-| **Ranking** | System zapisu wyników i wyświetlanie tabeli liderów. |
-| **Interfejs** | Czytelne menu obsługiwane z poziomu konsoli. |
+| **Baza pytań** | Pytania wczytywane są z zewnętrznego pliku `pytania.txt` (Kategorie: IT, Historia, Sport, Geografia). |
+| **Poziomy trudności** | Wybór między **Easy, Medium i Hard** (wpływa na pulę losowanych pytań). |
+| **Ranking** | Automatyczny zapis najlepszych wyników do pliku `ranking.txt`. |
+| **Interfejs** | Graficzny interfejs użytkownika (Swing) – obsługa myszką, okna dialogowe. |
+| **Weryfikacja** | Logika biznesowa sprawdzona testami jednostkowymi (JUnit). |
 
 ## 🛠️ Technologie
 * **Język:** Java 17+
-* **Struktury danych:** Listy i Mapy (Collections Framework)
-* **Zapis danych:** Obsługa plików tekstowych (Ranking)
+* **Interfejs:** Java Swing (JFrame, JOptionPane)
+* **Testy:** JUnit 4.13.2
+* **Struktury danych:** Listy i Kolekcje (Collections Framework)
+* **Zapis danych:** Obsługa plików tekstowych (odczyt pytań, zapis rankingu)
 
 ## 🚀 Instrukcja uruchomienia (Tutorial)
 
-| Krok | Działanie w IDE (IntelliJ / Eclipse) | Działanie w Terminalu |
+| Krok | Działanie w IDE (NetBeans / IntelliJ) | Uwagi |
 | :--- | :--- | :--- |
-| **1. Pobranie** | Sklonuj repozytorium lub pobierz ZIP. | `git clone https://github.com/TwojUser/quiz-java.git` |
-| **2. Otwarcie** | Wybierz **File > Open** i wskaż folder projektu. | `cd quiz-java` |
-| **3. Kompilacja** | IDE zrobi to automatycznie po otwarciu. | `javac -d out src/*.java` |
-| **4. Uruchomienie** | Kliknij Prawym Przyciskiem na `Main.java` -> **Run**. | `java -cp out Main` |
-
-Szegółowy opis projektu znajduje się w folderze  
-[Docs](./Docs)  
-[DIAGRAM UML](./Docs/UML.jpg)
-
----
-
-## 📋 Przykład działania programu
-```text
-Pytanie: Który pierwiastek ma symbol 'H'?
-A) Hel
-B) Wodór
-C) Tlen
-
-Twoja odpowiedź: B
-Wynik: Poprawna odpowiedź! Zdobywasz punkty.
+| **1. Pobranie** | Sklonuj repozytorium lub pobierz ZIP. | Upewnij się, że plik `pytania.txt` jest w głównym folderze projektu. |
+| **2. Biblioteki** | Dodaj bibliotekę **JUnit 4** do projektu. | Wymagane do uruchomienia testów. |
+| **3. Uruchomienie Gry** | Kliknij Prawym Przyciskiem na plik `src/quiz/QuizWindow.java` -> **Run File**. | To jest główny plik aplikacji okienkowej. |
+| **4. Uruchom
