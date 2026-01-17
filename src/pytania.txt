@@ -1,0 +1,152 @@
+MC;EASY;IT;10;Co oznacza skrót CPU?;0;Central Processing Unit;Central Process Unit;Computer Personal Unit;Central Power Unit
+TF;EASY;IT;5;Czy HTML jest językiem programowania?;false
+MC;MEDIUM;IT;15;Która pętla wykona się przynajmniej raz?;1;for;do-while;while;foreach
+TF;MEDIUM;IT;10;Czy Linux jest oprogramowaniem Open Source?;true
+MC;HARD;IT;20;Jaka jest złożoność wyszukiwania binarnego?;2;O(n);O(n^2);O(log n);O(1)
+MC;EASY;IT;10;Co jest "mózgiem" komputera?;0;Procesor;Dysk twardy;RAM;Zasilacz
+TF;HARD;IT;20;Czy stos (Stack) działa na zasadzie FIFO (First In First Out)?;false
+MC;MEDIUM;IT;15;Który port jest standardowy dla stron WWW (HTTP)?;1;21;80;443;25
+MC;HARD;IT;20;Słowo kluczowe 'extends' w Javie służy do?;3;implementacji;rzucania wyjątków;tworzenia obiektu;dziedziczenia
+TF;MEDIUM;IT;10;Czy zmienna typu boolean w Javie domyślnie ma wartość false?;true
+MC;EASY;IT;10;Który system operacyjny ma logo Pingwina?;2;Windows;MacOS;Linux;Android
+TF;EASY;IT;5;Czy myszka jest urządzeniem wyjścia?;false
+MC;MEDIUM;IT;15;Co oznacza skrót RAM?;0;Random Access Memory;Read Access Memory;Run All Memory;Random All Memory
+MC;HARD;IT;20;Ile bitów ma jeden bajt?;1;4;8;16;32
+TF;HARD;IT;20;Czy Java to to samo co JavaScript?;false
+MC;EASY;IT;10;Jaki skrót klawiszowy to "Kopiuj"?;0;Ctrl+C;Ctrl+V;Ctrl+X;Ctrl+Z
+MC;MEDIUM;IT;15;Który język jest używany do stylowania stron WWW?;2;HTML;Python;CSS;Java
+TF;EASY;IT;5;Czy monitor to urządzenie wyjścia?;true
+MC;HARD;IT;20;Która klasa w Javie jest bazowa dla wszystkich innych?;3;Main;System;String;Object
+MC;MEDIUM;IT;15;Co robi skrót Alt+F4 w Windows?;1;Odświeża;Zamyka okno;Otwiera pomoc;Kopiuje
+TF;HARD;IT;20;Czy tablice w Javie mogą zmieniać swój rozmiar po utworzeniu?;false
+MC;EASY;IT;10;Co oznacza "bug" w informatyce?;2;Funkcję;Wirusa;Błąd w kodzie;Hasło
+MC;MEDIUM;IT;15;Jaki format pliku ma zdjęcie?;0;JPG;MP3;TXT;EXE
+TF;EASY;IT;5;Czy klawiatura służy do wprowadzania danych?;true
+MC;HARD;IT;20;Który protokół służy do wysyłania e-maili?;2;POP3;IMAP;SMTP;HTTP
+MC;EASY;IT;10;Gdzie przechowuje się pliki na stałe?;1;RAM;Dysk twardy;Procesor;Karta graficzna
+TF;MEDIUM;IT;10;Czy SSD jest szybszy od HDD?;true
+MC;MEDIUM;IT;15;Który z tych języków jest niskiego poziomu?;3;Java;Python;C#;Assembler
+MC;HARD;IT;20;Jak nazywa się metoda startowa w Javie?;0;main;start;run;init
+TF;HARD;IT;20;Czy interfejs w Javie może mieć konstruktor?;false
+MC;EASY;IT;10;Co chroni komputer przed wirusami?;1;Word;Antywirus;Paint;Excel
+MC;MEDIUM;IT;15;Co oznacza skrót GPU?;2;General Power Unit;Global Position Unit;Graphics Processing Unit;Game Processing Unit
+TF;EASY;IT;5;Czy Internet i WWW to to samo?;false
+MC;HARD;IT;20;Który typ danych w Javie jest zmiennoprzecinkowy?;3;int;boolean;char;double
+MC;EASY;IT;10;Jak nazywa się "folder" w systemie plików?;0;Katalog;Plik;Pulpit;Kosz
+TF;MEDIUM;IT;10;Czy Python wymaga średników na końcu linii?;false
+MC;MEDIUM;IT;15;Co oznacza "cloud computing"?;1;Liczenie chmur;Przetwarzanie w chmurze;Pogoda online;Gry sieciowe
+MC;HARD;IT;20;Jaki jest wynik 10 % 3 w Javie?;2;3;0;1;10
+TF;HARD;IT;20;Czy SQL służy do obsługi baz danych?;true
+MC;EASY;IT;10;Która firma stworzyła Windowsa?;0;Microsoft;Apple;Google;IBM
+MC;EASY;HISTORY;10;Kiedy wybuchła II wojna światowa?;1;1914;1939;1945;1920
+TF;EASY;HISTORY;5;Czy Mieszko I był pierwszym królem Polski?;false
+MC;MEDIUM;HISTORY;15;W którym roku była Bitwa pod Grunwaldem?;2;1400;1405;1410;1420
+MC;HARD;HISTORY;20;Kto był ostatnim królem Polski?;3;Jan III Sobieski;Zygmunt Stary;Stefan Batory;Stanisław August Poniatowski
+TF;MEDIUM;HISTORY;10;Czy Napoleon zmarł we Francji?;false
+MC;EASY;HISTORY;10;Kto odkrył Amerykę?;0;Krzysztof Kolumb;Vasco da Gama;Ferdynand Magellan;Marco Polo
+TF;HARD;HISTORY;20;Czy Cesarstwo Rzymskie upadło w 476 roku n.e.?;true
+MC;MEDIUM;HISTORY;15;Gdzie była stolica Polski przed Warszawą?;1;Gniezno;Kraków;Poznań;Lublin
+MC;HARD;HISTORY;20;W którym roku miał miejsce Chrzest Polski?;0;966;1000;1025;996
+TF;EASY;HISTORY;5;Czy Titanic zatonął w 1912 roku?;true
+MC;EASY;HISTORY;10;Kto jest na banknocie 100 zł?;2;Mieszko I;Bolesław Chrobry;Władysław Jagiełło;Kazimierz Wielki
+TF;MEDIUM;HISTORY;10;Czy Polska zniknęła z mapy na 123 lata?;true
+MC;HARD;HISTORY;20;Kiedy zakończyła się I wojna światowa?;1;1914;1918;1939;1945
+MC;EASY;HISTORY;10;Jakie miasto zburzyli Niemcy w 1944?;0;Warszawę;Kraków;Łódź;Gdańsk
+TF;HARD;HISTORY;20;Czy Bitwa Warszawska była w 1920 roku?;true
+MC;MEDIUM;HISTORY;15;Kto był pierwszym królem Polski?;3;Mieszko I;Władysław Łokietek;Kazimierz Wielki;Bolesław Chrobry
+MC;HARD;HISTORY;20;W którym roku upadł Mur Berliński?;2;1980;1945;1989;1999
+TF;EASY;HISTORY;5;Czy faraonowie rządzili w Egipcie?;true
+MC;EASY;HISTORY;10;Jaki kraj zaatakował Polskę 1 września 1939?;1;Rosja;Niemcy;Francja;Anglia
+MC;MEDIUM;HISTORY;15;Kto namalował "Bitwę pod Grunwaldem"?;0;Jan Matejko;Jacek Malczewski;Stanisław Wyspiański;Wojciech Kossak
+TF;HARD;HISTORY;20;Czy Unia Lubelska była w 1569 roku?;true
+MC;EASY;HISTORY;10;Gdzie znajduje się Wawel?;2;W Warszawie;W Gdańsku;W Krakowie;W Poznaniu
+TF;MEDIUM;HISTORY;10;Czy Maria Skłodowska-Curie dostała dwie nagrody Nobla?;true
+MC;HARD;HISTORY;20;Kto dowodził w bitwie pod Monte Cassino?;1;Gen. Maczek;Gen. Anders;Gen. Sikorski;Gen. Piłsudski
+MC;MEDIUM;HISTORY;15;W którym wieku żył Mikołaj Kopernik?;3;XIV;XVII;XIX;XVI
+TF;EASY;HISTORY;5;Czy rycerze walczyli mieczami?;true
+MC;HARD;HISTORY;20;Jak nazywał się statek Kolumba?;0;Santa Maria;Titanic;Batory;Dar Pomorza
+MC;EASY;HISTORY;10;Kto wygrał bitwę pod Wiedniem?;2;Turcy;Niemcy;Polacy;Francuzi
+TF;MEDIUM;HISTORY;10;Czy Konstytucja 3 Maja była pierwszą w Europie?;true
+MC;HARD;HISTORY;20;Kiedy Polska weszła do Unii Europejskiej?;3;1999;2000;2010;2004
+MC;MEDIUM;HISTORY;15;Kto był wodzem powstania w 1794 roku?;1;Piłsudski;Kościuszko;Traugutt;Poniatowski
+TF;HARD;HISTORY;20;Czy Kazimierz Wielki zastał Polskę murowaną?;false
+MC;EASY;HISTORY;10;Jakie zwierzę jest symbolem Polski?;0;Orzeł;Bocian;Żubr;Wilk
+MC;MEDIUM;HISTORY;15;W którym roku wybuchło Powstanie Warszawskie?;2;1939;1943;1944;1945
+TF;EASY;HISTORY;5;Czy piramidy są w Azji?;false
+MC;HARD;HISTORY;20;Kto był pierwszym prezydentem Polski po 1989?;1;Lech Wałęsa;Wojciech Jaruzelski;Aleksander Kwaśniewski;Lech Kaczyński
+TF;MEDIUM;HISTORY;10;Czy Potop Szwedzki był w XVII wieku?;true
+MC;EASY;HISTORY;10;Kto jest patronem Polski?;3;Św. Patryk;Św. Mikołaj;Św. Jan;Św. Wojciech
+MC;EASY;SPORT;10;Ile trwa standardowy mecz piłki nożnej?;1;45 min;90 min;100 min;60 min
+TF;EASY;SPORT;5;Czy Robert Lewandowski jest tenisistą?;false
+MC;MEDIUM;SPORT;15;Ilu zawodników jednej drużyny koszykarskiej jest na parkiecie?;2;4;6;5;7
+MC;HARD;SPORT;20;Kto jest rekordzistą świata w biegu na 100m?;0;Usain Bolt;Tyson Gay;Asafa Powell;Carl Lewis
+TF;MEDIUM;SPORT;10;Czy Igrzyska Olimpijskie odbywają się co 4 lata?;true
+MC;EASY;SPORT;10;Czym odbija się piłkę w tenisie?;3;Kijem;Ręką;Nogą;Rakietą
+TF;HARD;SPORT;20;Czy w golfa zagrano kiedykolwiek na Księżycu?;true
+MC;MEDIUM;SPORT;15;Jaki kolor NIE znajduje się na kołach olimpijskich?;1;Niebieski;Fioletowy;Czarny;Czerwony
+MC;HARD;SPORT;20;W którym kraju wymyślono siatkówkę?;0;USA;Polska;Brazylia;Rosja
+TF;MEDIUM;SPORT;10;Czy w piłce ręcznej można dotknąć piłki nogą (z wyjątkami)?;true
+MC;EASY;SPORT;10;Ile punktów daje rzut wolny w koszykówce?;0;1;2;3;0
+TF;EASY;SPORT;5;Czy Michael Jordan grał w piłkę nożną?;false
+MC;MEDIUM;SPORT;15;Ile setów trzeba wygrać w siatkówce mężczyzn?;2;2;4;3;5
+MC;HARD;SPORT;20;Gdzie odbyły się pierwsze nowożytne Igrzyska?;1;W Rzymie;W Atenach;W Paryżu;W Londynie
+TF;HARD;SPORT;20;Czy maraton ma dokładnie 40 km?;false
+MC;EASY;SPORT;10;W jakiej dyscyplinie startował Adam Małysz?;2;Biegi;Pływanie;Skoki narciarskie;Tenis
+MC;MEDIUM;SPORT;15;Ile graczy ma drużyna piłki ręcznej na boisku?;3;11;6;5;7
+TF;EASY;SPORT;5;Czy bramkarz może łapać piłkę w ręce?;true
+MC;HARD;SPORT;20;Jaki jest maksymalny wynik (break) w snookerze?;0;147;100;155;180
+MC;EASY;SPORT;10;Który sport uprawia się na lodzie?;1;Tenis;Hokej;Koszykówka;Siatkówka
+TF;MEDIUM;SPORT;10;Czy żółta kartka wyrzuca z boiska?;false
+MC;MEDIUM;SPORT;15;Kto wygrał Mundial w 2022 roku?;2;Francja;Brazylia;Argentyna;Niemcy
+MC;HARD;SPORT;20;W którym roku Polska zorganizowała EURO?;3;2008;2010;2016;2012
+TF;HARD;SPORT;20;Czy piłka do kosza jest cięższa od piłki do siatki?;true
+MC;EASY;SPORT;10;Jak nazywa się "gol" w koszykówce?;2;Bramka;Punkt;Kosz;Strzał
+MC;MEDIUM;SPORT;15;Ile trwa kwarta w NBA?;1;10 min;12 min;15 min;20 min
+TF;EASY;SPORT;5;Czy narty służą do pływania?;false
+MC;HARD;SPORT;20;Kto jest nazywany "Królem Futbolu"?;0;Pele;Messi;Ronaldo;Maradona
+MC;EASY;SPORT;10;W jakim sporcie używa się krążka?;1;Unihokej;Hokej na lodzie;Tenis;Golf
+TF;MEDIUM;SPORT;10;Czy w tenisie jest remis?;false
+MC;MEDIUM;SPORT;15;Ile dołków ma standardowe pole golfowe?;3;9;10;12;18
+MC;HARD;SPORT;20;W którym roku odbyły się Igrzyska w Pekinie?;0;2008;2004;2012;2000
+TF;HARD;SPORT;20;Czy Formuła 1 używa silników diesla?;false
+MC;EASY;SPORT;10;Jaki kolor ma kartka wykluczająca z gry?;1;Żółty;Czerwony;Niebieski;Czarny
+TF;MEDIUM;SPORT;10;Czy Iga Świątek gra w tenisa?;true
+MC;MEDIUM;SPORT;15;Ile wynosi odległość rzutu karnego w piłce nożnej?;2;9 metrów;10 metrów;11 metrów;12 metrów
+MC;EASY;GEOGRAPHY;10;Co jest stolicą Polski?;0;Warszawa;Kraków;Gdańsk;Poznań
+TF;EASY;GEOGRAPHY;5;Czy Ziemia jest płaska?;false
+MC;MEDIUM;GEOGRAPHY;15;Która rzeka jest najdłuższa na świecie?;1;Amazonka;Nil;Jangcy;Missisipi
+MC;HARD;GEOGRAPHY;20;Co jest stolicą Australii?;2;Sydney;Melbourne;Canberra;Perth
+TF;MEDIUM;GEOGRAPHY;10;Czy Australia jest jednocześnie krajem i kontynentem?;true
+MC;EASY;GEOGRAPHY;10;Największy kontynent to?;0;Azja;Afryka;Ameryka Północna;Europa
+TF;HARD;GEOGRAPHY;20;Czy Mount Everest znajduje się w Europie?;false
+MC;MEDIUM;GEOGRAPHY;15;Które państwo jest najmniejsze na świecie?;3;Monako;San Marino;Lichtenstein;Watykan
+MC;HARD;GEOGRAPHY;20;Na jakim kontynencie leży Egipt?;1;Azja;Afryka;Europa;Ameryka Południowa
+TF;MEDIUM;GEOGRAPHY;10;Czy Puszcza Amazońska leży głównie w Brazylii?;true
+MC;EASY;GEOGRAPHY;10;Jakie miasto jest stolicą Francji?;2;Lyon;Marsylia;Paryż;Nicea
+TF;EASY;GEOGRAPHY;5;Czy Polska leży w Europie?;true
+MC;MEDIUM;GEOGRAPHY;15;Z jakim krajem Polska ma najdłuższą granicę?;0;Czechy;Niemcy;Ukraina;Słowacja
+MC;HARD;GEOGRAPHY;20;Jaka jest najgłębsza depresja w Polsce?;1;Żuławy;Raczki Elbląskie;Dolina Śmierci;Rów Mariański
+TF;HARD;GEOGRAPHY;20;Czy Afryka jest największym kontynentem?;false
+MC;EASY;GEOGRAPHY;10;Który ocean jest największy?;3;Indyjski;Arktyczny;Atlantycki;Spokojny
+MC;MEDIUM;GEOGRAPHY;15;Stolicą USA jest?;2;Nowy Jork;Los Angeles;Waszyngton;Chicago
+TF;EASY;GEOGRAPHY;5;Czy Wisła wpada do Bałtyku?;true
+MC;HARD;GEOGRAPHY;20;Które miasto leży na dwóch kontynentach?;0;Stambuł;Moskwa;Kair;Madryt
+MC;EASY;GEOGRAPHY;10;Jak nazywa się nasz naturalny satelita?;1;Słońce;Księżyc;Mars;Wenus
+TF;MEDIUM;GEOGRAPHY;10;Czy Grenlandia należy do Danii?;true
+MC;MEDIUM;GEOGRAPHY;15;Ile województw ma Polska?;3;49;17;12;16
+MC;HARD;GEOGRAPHY;20;Która góra jest najwyższa w Polsce?;0;Rysy;Giewont;Śnieżka;Kasprowy Wierch
+TF;HARD;GEOGRAPHY;20;Czy Antarktyda jest zamieszkana na stałe?;false
+MC;EASY;GEOGRAPHY;10;W jakim kraju leży Rzym?;2;Francja;Hiszpania;Włochy;Grecja
+MC;MEDIUM;GEOGRAPHY;15;Jaki jest największy kraj świata (powierzchnia)?;1;Chiny;Rosja;USA;Kanada
+TF;EASY;GEOGRAPHY;5;Czy biegun północny jest zimny?;true
+MC;HARD;GEOGRAPHY;20;Jaka rzeka płynie przez Londyn?;2;Sekwana;Wisła;Tamiza;Ren
+MC;EASY;GEOGRAPHY;10;Który kontynent jest najzimniejszy?;3;Azja;Europa;Ameryka;Antarktyda
+TF;MEDIUM;GEOGRAPHY;10;Czy Słowacja graniczy z Polską?;true
+MC;MEDIUM;GEOGRAPHY;15;Gdzie leży wieża Eiffla?;0;Paryż;Berlin;Londyn;Rzym
+MC;HARD;GEOGRAPHY;20;Jak nazywa się najgłębsze miejsce na Ziemi?;1;Rów Atakamski;Rów Mariański;Rów Filipiński;Rów Sundajski
+TF;HARD;GEOGRAPHY;20;Czy Morze Kaspijskie jest jeziorem?;true
+MC;EASY;GEOGRAPHY;10;Stolicą Niemiec jest?;2;Monachium;Hamburg;Berlin;Frankfurt
+MC;MEDIUM;GEOGRAPHY;15;Na jakiej półkuli leży Polska?;0;Północnej;Południowej;Zachodniej;Wschodniej
+TF;EASY;GEOGRAPHY;5;Czy Tatry to góry?;true
+MC;HARD;GEOGRAPHY;20;Ile oceanów wyróżniamy (wg najczęstszych podziałów)?;1;3;5;7;4
+MC;EASY;GEOGRAPHY;10;W jakim państwie są piramidy?;3;Grecja;Włochy;Turcja;Egipt
