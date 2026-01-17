@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/Answer.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/Category.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/GameSession.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/GameTests.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/IsScoreCalculable.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/Leaderboard.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/Level.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/MultipleChoiceQuestion.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/Player.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/Question.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/QuestionLoader.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/QuestionsPool.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/Quiz.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/QuizException.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/QuizWindow.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/ScoreEntry.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/StandardScoreCalculator.java</file>
+            <file>file:/C:/Users/alanc/OneDrive/Dokumenty/NetBeansProjects/Quiz/src/quiz/TrueFalseQuestion.java</file>
+        </group>
+    </open-files>
+</project-private>
